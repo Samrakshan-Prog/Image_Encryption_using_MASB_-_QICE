@@ -55,7 +55,7 @@ project/
 1. Clone the repository:
    ```bash
    git clone https://github.com/Samrakshan-Prog/Image_Encryption_using_MASB_&_QICE.git
-   cd Image_Encryption_using_MASB_&_QICE
+   cd Image_Encryption_using_MASB_-_QICE
    ```
 
 2. Install dependencies:
